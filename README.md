@@ -2,6 +2,8 @@ Hi there 👋
 
 - 🌱 I’m currently learning JavaScript and Java.
 - 📫 How to reach me: fernandavbeato@gmail.com
-- ⚡ Fun fact: I'm participating in Movimento Codar 2021. Check my badges
+- Company: Bluesoft
+- ⚡ Fun fact: I'm vegetarian and love the tiny house moviment :)
 
+- Check my bagdes at Movimento Codar 2021.
 [![Movimento Codar 2021](https://codar-badges.vercel.app/api/card/feehvecch)](https://codar-badges.vercel.app/api/card/feehvecch)

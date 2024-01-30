@@ -3,7 +3,7 @@ Hi there 👋
 - 🌱 I’m currently learning JavaScript and Java.
 - 📫 How to reach me: fernandavbeato@gmail.com
 - Company: Bluesoft
-- ⚡ Fun fact: I'm vegetarian and love the tiny house moviment :)
+- ⚡ Fun fact: I love the tiny house moviment :)
 
 - Check my bagdes at Movimento Codar 2021.
 
